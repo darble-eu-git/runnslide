@@ -1,5 +1,5 @@
 
-# Some Runner i dunno
+# Some Runner I dunno
 
 Маленька гра на Unreal Engine 4 яку я робив на залік
 Жанр гри - Sidescroller platformer
